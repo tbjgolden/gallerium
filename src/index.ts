@@ -1,2 +1,2 @@
-export * from './id'
+export * from './gallerium'
 export * from './C'
